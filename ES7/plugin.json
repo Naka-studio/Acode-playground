@@ -1,0 +1,33 @@
+{
+  "id": "com.bayanaka.ES7",
+  "name": "ES7 React Snippets",
+  "description": "ES7+ React, Redux and React Native snippets for Acode.",
+  "main": "main.js",
+  "version": "1.0.0",
+  "minVersionCode": 1001,
+  "icon": "icon.png",
+  "changelogs": "changelog.md",
+  "readme": "readme.md",
+  "price": 0,
+  "author": {
+    "name": "Naka Studio",
+    "email": "https://github.com/Naka-studio",
+    "github": "Naka-studio"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "redux",
+    "react-native",
+    "javascript",
+    "typescript",
+    "es7",
+    "es6",
+    "snippets",
+    "code-snippets",
+    "autocomplete",
+    "acode"
+  ],
+  "repository": "https://github.com/Naka-studio/Acode-playground/tree/main/ES7",
+  "license": "MIT"
+}

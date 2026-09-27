@@ -2,7 +2,7 @@
   "id": "com.bayanaka.ES7",
   "name": "ES7 React Snippets",
   "description": "ES7+ React, Redux and React Native snippets for Acode.",
-  "main": "main.js",
+  "main": "dist/main.js",
   "version": "1.0.0",
   "minVersionCode": 1001,
   "icon": "icon.png",
